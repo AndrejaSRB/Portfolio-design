@@ -3,9 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.1.0",
+    "@material-ui/icons": "^4.1.0",
+    "classnames": "^2.2.6",
     "react": "^16.8.6",
+    "react-animation-components": "^3.0.0",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-slick": "^0.24.0",
+    "uuid": "^3.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
